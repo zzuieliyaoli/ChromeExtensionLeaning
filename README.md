@@ -1,4 +1,4 @@
-#Google Chrome Extension - Hello World
+#Google Chrome Extension 学习
 
 ##参考资料
 1. [官方文档](https://developer.chrome.com/extensions)
@@ -13,12 +13,22 @@
 
 ###popup.js
 1. Most methods of the Chrome extension APIs are asynchronous.（Chrome extension的大多数API都是异步的）
-2.  
+
+
+### ![](./files/20150408200727.png)
+
+通过这东西，用console.log等语句调试拓展程序。
 
 
 ##官方学习资料
+
 1. [ Manifest File Format ](https://developer.chrome.com/extensions/manifest)
-2. 
+
+
+
+
+##自己做的插件 
+1. urls-copy-tool
 
 
 
